@@ -1,0 +1,4 @@
+Data csv yang terdapat pada folder ini merupakan data yang telah diolah, bukan raw data. Dikarenakan ukuran file csv raw data yang sangat besar mencapai 681 MB, maka dalam hal ini, saya hanya mencantumkan link dataset raw datanya yang digunakan dari data open source.
+
+Berikut ini link dataset yang digunakan:
+https://www.kaggle.com/competitions/instacart-market-basket-analysis
